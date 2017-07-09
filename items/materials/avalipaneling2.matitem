@@ -1,0 +1,12 @@
+{
+  "itemName" : "avalipaneling2",
+  "rarity" : "Common",
+  "price" : 10,
+  "inventoryIcon" : "avalipaneling2.png",
+  "description" : "Light and airy panels.",
+  "shortdescription" : "Vertical Panels",
+
+  "materialId" : 12523,
+  
+  "learnBlueprintsOnPickup" : [ "avalipaneling2" ]
+}

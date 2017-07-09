@@ -1,0 +1,25 @@
+{
+  "materialId" : 12524,
+  "materialName" : "aerogelrail",
+  "collisionKind" : "none",
+  "foregroundOnly" : true,
+  "itemDrop" : "aerogelrail",
+  "shortdescription" : "Aerogel Rail",
+  "description" : "A strong reinforced rail.",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "category": "supports",
+  "health" : 4,
+  "glitchDescription" : "Concerned. This rail appears to be made from colored glass.",
+  "floranDescription" : "Shiny glassy rails. Isss it sssafe?",
+  "novakidDescription" : "Some fancy-looking glass rails. Will they even hold me?",
+
+  "renderTemplate" : "/tiles/railtemplate.config",
+  "renderParameters" : {
+    "texture" : "aerogelrail.png",
+    "variants" : 1,
+    "multiColored" : true,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 0
+  }
+}
